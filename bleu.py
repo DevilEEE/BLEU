@@ -12,7 +12,7 @@ import os
 import argparse
 import math
 
-
+# everything you need is here
 def read_data(candidate_filename, reference_file):
     """
     读取候选文件和参考文件
